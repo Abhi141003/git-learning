@@ -6,3 +6,5 @@ console.log("login added");
 
 const footer="footer added";
 console.log("footer added");
+const payment="payment added";
+console.log("payment added");
