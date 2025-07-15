@@ -14,3 +14,6 @@ const upi="payment added";
 console.log("upi added");
 
 console.log("latest changes");
+
+const bug="bug fixed";
+console.log("bug fixed");
